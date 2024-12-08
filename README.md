@@ -1,6 +1,6 @@
 # 🩻X-Ray Vision
 
-Allow users to upload .TIFF files from oepn source sources to React frontend, which is either stored in a Supabase datbase or AWS S3 bucket snd analysed via OpenCV library. 
+Allow users to upload files to React frontend, which is either stored in a Supabase datbase or AWS S3 bucket snd analysed via OpenCV library. 
 
 ### 📋Aims of App
 
