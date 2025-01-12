@@ -1,6 +1,6 @@
 # 🩻X-Ray Vision
 
-Allow users to upload files to React frontend, which is either stored in a Supabase datbase or AWS S3 bucket snd analysed via OpenCV library. 
+Use a kaggle dataset to train a model to understand medical imaging. Add a UI to show users results.  
 
 ### 📋Aims of App
 
@@ -12,8 +12,7 @@ Allow users to upload files to React frontend, which is either stored in a Supab
 
 - React
 - Python
-- Libaries tbc
-- Supabase or AWS [tbc]
+- Libaries/datasets tbc
 
 ### 🔧How to Run the App
 
@@ -22,4 +21,4 @@ Allow users to upload files to React frontend, which is either stored in a Supab
 ```
 
 ### 💭Future Improvements
-Build both front-end and back-end integrations 
+[tbc]
