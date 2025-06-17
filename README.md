@@ -1,6 +1,6 @@
 # 🩻X-Ray Vision
 
-Use a kaggle dataset to train a model to understand medical imaging. Add a UI to show users results.  
+Using Google Gemini's model to analyse x-rays. 
 
 ### 📋Aims of App
 
@@ -11,14 +11,17 @@ Use a kaggle dataset to train a model to understand medical imaging. Add a UI to
 ### 👩‍💻Technical Details
 
 - React
-- Python
-- Libaries/datasets tbc
+- Vite
+- Google Gemini
+
 
 ### 🔧How to Run the App
 
 ```bash
-  [tbc]
+  git clone https://github.com/ummagohil/x-ray-vision-code.git
 ```
+### 👀View App
+https://x-ray-vision-code.vercel.app/
 
-### 💭Future Improvements
-[tbc]
+### 💭Notes
+hello@umma.dev
